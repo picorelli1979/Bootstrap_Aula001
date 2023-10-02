@@ -1,0 +1,11 @@
+:root {
+    --violet: violet;
+}
+
+.bg-violet {
+    background-color: var(--violet);
+}
+
+.text-violet {
+    color: var(--violet);
+}
